@@ -1,0 +1,62 @@
+<url>
+    <loc>https://ashishanalytics37-blip.github.io/advr-associates/insolvency-law.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://ashishanalytics37-blip.github.io/advr-associates/criminal-law.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://ashishanalytics37-blip.github.io/advr-associates/civil-law.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://ashishanalytics37-blip.github.io/advr-associates/family-law.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://ashishanalytics37-blip.github.io/advr-associates/company-law.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Attorney Pages -->
+  <url>
+    <loc>https://ashishanalytics37-blip.github.io/advr-associates/ankita-singh.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://ashishanalytics37-blip.github.io/advr-associates/m-p-gupta.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://ashishanalytics37-blip.github.io/advr-associates/riju-paukan.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://ashishanalytics37-blip.github.io/advr-associates/deepak-kumar.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://ashishanalytics37-blip.github.io/advr-associates/vibhas-tunkikar.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+</urlset>
