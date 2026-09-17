@@ -26596,3 +26596,103 @@ textarea {
 .arb {
   width: -webkit-fill-available;
 }
+
+
+
+/* Popup Decoration starts */
+/* ==============================
+   Contact Form Professional Popup
+   ============================== */
+
+.form-popup-overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.65);
+  display: none;
+  align-items: center;
+  justify-content: center;
+  z-index: 99999;
+  padding: 20px;
+}
+
+.form-popup-overlay.active {
+  display: flex;
+}
+
+.form-popup {
+  position: relative;
+  width: 100%;
+  max-width: 450px;
+  background: #ffffff;
+  border-radius: 12px;
+  padding: 40px 30px 35px;
+  text-align: center;
+  box-shadow: 0 20px 60px rgba(0, 0, 0, 0.25);
+  animation: popupScale 0.25s ease;
+}
+
+.form-popup-close {
+  position: absolute;
+  top: 12px;
+  right: 15px;
+  width: 35px;
+  height: 35px;
+  border: none;
+  background: transparent;
+  font-size: 28px;
+  line-height: 35px;
+  cursor: pointer;
+  color: #777;
+}
+
+.form-popup-close:hover {
+  color: #000;
+}
+
+.form-popup-icon {
+  width: 70px;
+  height: 70px;
+  margin: 0 auto 20px;
+  border-radius: 50%;
+  background: #198754;
+  color: #ffffff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 38px;
+  font-weight: 600;
+}
+
+.form-popup.error .form-popup-icon {
+  background: #dc3545;
+}
+
+.form-popup h3 {
+  margin: 0 0 10px;
+  font-size: 28px;
+  font-weight: 700;
+}
+
+.form-popup p {
+  margin: 0 auto 25px;
+  color: #666;
+  font-size: 16px;
+  line-height: 1.6;
+}
+
+.form-popup .th-btn {
+  min-width: 120px;
+}
+
+@keyframes popupScale {
+  from {
+    opacity: 0;
+    transform: scale(0.85);
+  }
+
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+/* Popup Decoration Ends */
